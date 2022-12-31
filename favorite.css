@@ -1,0 +1,38 @@
+.card {
+  cursor: pointer;
+}
+
+.content {
+  max-width: 1600px;
+  margin: 50px auto;
+}
+
+.bi-list-ul,
+.bi-grid-3x3-gap-fill {
+  font-size: 25px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.card-body {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bi-heart {
+  font-size: 20px;
+  font-size: 25px;
+}
+
+.bi-heart-fill {
+  font-size: 20px;
+  font-size: 25px;
+  color: red;
+}
+
+.card-text {
+  padding-top: 5px;
+}
+.mouse {
+  cursor: pointer;
+}
